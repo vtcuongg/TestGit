@@ -1,5 +1,12 @@
-CCCCC
-
-AAAA
-
-AAAA
+1. Màn Report 
+2.Màn Customer List 
+3.Màn Chat 
+4.Biểu tượng chat 
+ , Biểu tượng Profile 
+5.Dao diện Admin 
+    5.1 Dao diện Customer 
+    5.2 Dao diện Department 
+    5.3 Dao diện Category 	
+6.Biểu tượng thông báo
+7.Màn Profile 
+8 Dao diện FeedBack 
